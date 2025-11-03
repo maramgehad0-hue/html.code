@@ -1,78 +1,10 @@
-< html>
-<head>< html>
+<html>
+<head>
+<html>
 <head>
 <title>tuqa and maram</title>
 </head>
-<body dir="lltr" bgcolor="red">
-
-<h1>Welcome to Our Web Page</h1>
-<h2>By: Maram Gehad and tuqa sameh </h2>
-
-<b><i><u><h3>About Us</h3></u></i></b>
-<p>We are two students learning how to create web pages using HTML. This page shows what we learned about headings, paragraphs, lists, images, audio, video, hyperlinks, and tables.</p>
-
-<h3>Our Hobbies</h3>
-<ul>
-<li>Reading books</li>
-<li>Drawing</li>
-<li>Listening to music</li>
-<li>Coding</li>
-</ul>
-
-<h3>Our Favorite Websites</h3>
-<ol>
-<li><a href="https://www.google.com" target="_blank">Google</a></li>
-<li><a href="https://www.youtube.com" target="_blank">YouTube</a></li>
-</ol>
-
-<h3>Our Picture</h3>
-<img src="https://www.w3schools.com/html/pic_trulli.jpg" alt="Our Picture" width="250" height="200">
-
-<h3>Our Favorite Song</h3>
-<audio controls>
-<source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
-</audio>
-
-<h3>Our Favorite Video</h3>
-<video width="320" height="240" controls>
-<source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-</video>
-
-<h3>Our Weekly Schedule</h3>
-<table border="1">
-<tr>
-<th>Day</th>
-<th>Activity</th>
-</tr>
-<tr>
-<td>Sunday</td>
-<td>Study HTML</td>
-</tr>
-<tr>
-<td>Monday</td>
-<td>Do homework</td>
-</tr>
-<tr>
-<td>Tuesday</td>
-<td>Watch tutorials</td>
-</tr>
-<tr>
-<td>Wednesday</td>
-<td>Group project</td>
-</tr>
-<tr>
-<td>Thursday</td>
-<td>Rest and play</td>
-</tr>
-</table>
-
-<p>Thank you for visiting our web page!</p>
-
-</body>
-</html>
-<title>tuqa and maram</title>
-</head>
-<body>
+<body dir="ltr" bgcolor="red">
 
 <h1>Welcome to Our Web Page</h1>
 <h2>By: Maram Gehad and tuqa sameh </h2>
